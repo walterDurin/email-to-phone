@@ -1,0 +1,10 @@
+#summary Trigger phone call by email
+
+= Setup Email Trigger for alert phone call =
+
+From the main page of EmailToPhone as shown in the overview section, click the link labeled Turn Alert On. 
+
+Send an email from the email account you specified in the Email Alert section 
+You should receive a phone call from EmailToPhone 
+
+Please note that if you are using the shareware edition of Voicent Gateway, you will hearing Voicent Ad message embedded in the phone message. To get rid of the ad message, you need to have a paid edition of Voicent Gateway. The best deal is to get the Inbound & Outbound Gateway from Voicent Online Store.
