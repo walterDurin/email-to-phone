@@ -1,4 +1,5 @@
 #summary Email to phone end user setup guide
+#labels Featured
 
 = Email-to-Phone End User Setup Guide =
 
