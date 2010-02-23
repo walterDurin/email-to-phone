@@ -4,7 +4,7 @@
 
 You can download and use Email-to-Phone project as is. The following are setup instructions:
 
-  * Download and install Voicent Gateway
+  * [DownloadGateway Download and install Voicent Gateway]
   * Download and install EmailToPhone
   * Setup Email-to-Phone
   * Check email by phone
