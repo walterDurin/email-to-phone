@@ -1,11 +1,13 @@
 #summary Email to phone end user setup guide
 
-= Introduction =
+= Email-to-Phone End User Setup Guide =
 
 You can download and use Email-to-Phone project as is. The following are setup instructions:
 
   * [DownloadGateway Download and install Voicent Gateway]
-  * Download and install EmailToPhone
-  * Setup Email-to-Phone
-  * Check email by phone
-  * Setup email to phone trigger
+  * [DownloadEmailToPhone Download and install EmailToPhone]
+  * [SetupEmailToPhone Setup Email-to-Phone]
+  * [CheckEmailByPhone Check email by phone]
+  * [SetupEmailToPhoneTrigger Setup email to phone trigger]
+
+If you are a developer, please see [DeveloperGuide Email to Phone Developer Guide]
