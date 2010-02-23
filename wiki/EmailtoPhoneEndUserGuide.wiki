@@ -11,4 +11,4 @@ You can download and use Email-to-Phone project as is. The following are setup i
   * [CheckEmailByPhone Check email by phone]
   * [SetupEmailToPhoneTrigger Setup email to phone trigger]
 
-If you are a developer, please see [DeveloperGuide Email to Phone Developer Guide]
+If you are a developer, please see [http://emailtophone.com/email_to_phone_background.htm Email to Phone Developer Guide]
