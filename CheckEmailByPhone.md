@@ -1,0 +1,12 @@
+# Check Email by Phone #
+
+By default, Voicent Gateway does not pickup incoming calls. To change it, select Setup > Options > Inbound tab, then uncheck the box labeled Do not pickup incoming calls.
+You should also setup the incoming call password. The default is "1234". EmailToPhone is installed as a secure inbound application on Voicent Gateway, it can only be accessed if the caller enters the correct password.
+
+![http://emailtophone.com/gateway_password.jpg](http://emailtophone.com/gateway_password.jpg)
+
+Now you can call to check your email. If you use a voice modem, then call the number that is associated with the telephone line the modem is connected to. If you use Skype, and you have SkypeIn number, simply call the SkypeIn number; if you do not have SkypeIn number, use another computer and call your Skype account using Skype-to-Skype call.
+
+When Voicent Gateway picks up the call, it will announce that "you've reached ...". Enter the inbound password followed by the pound key, you will be directed to the EmailToPhone application.
+
+Please note that if you are using the shareware edition of Voicent Gateway, you will hearing Voicent Ad message embedded in the phone message. To get rid of the ad message, you need to have a paid edition of Voicent Gateway. The best deal is to get the Inbound & Outbound Gateway from [Voicent Online Store](http://www.voicent.com/store).
